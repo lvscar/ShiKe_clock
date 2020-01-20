@@ -1,0 +1,37 @@
+name: shike_clock
+description: Clock in ancient china ShiKe system.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  flutter_clock_helper:
+    path: ../flutter_clock_helper
+  flutter_svg: ^0.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: I.Ngaan
+      fonts:
+        - asset: fonts/I.Ngaan.ttf
+    - family: FakeHope
+      fonts:
+        - asset: fonts/FakeHope.ttf
+
+  assets:
+    - assets/mountain.svg
+    - assets/icons/
+
+
