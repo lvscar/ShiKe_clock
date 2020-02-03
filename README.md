@@ -2,6 +2,9 @@
 
 Shi-Ke Clock is an integration of calligraphy art & modern technology. It provide you with traditional Chinese timekeeping symbol which was written in beautiful calligraphic characters and Zen-style decoration. In the meantime, a convenient digital format time representation and weather condition information were retained.
 
+## Web Version
+
+[shike.today](https://shike.today/)
 
 ## Introducation of traditional Chinese timekeeping system
 
